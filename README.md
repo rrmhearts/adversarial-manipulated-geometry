@@ -2,13 +2,13 @@
 
 Papers covered in this repository include,
 
-1. [Overcoming Adversarial Attacks for HITL Applications](#overcoming-adversarial-attacks-for-human-in-the-loop-applications)
+1. [Overcoming Adversarial Attacks for HITL Applications](#overcoming-adversarial-attacks-for-human-in-the-loop-applications) ([pdf](./ICML_AdvML_Workshop_2022_McCoppin.pdf))
 2. [Explanations can be manipulated and Geometry is to blame](#explanations-can-be-manipulated-and-geometry-is-to-blame)
 
 ## Overcoming Adversarial Attacks for Human-in-the-Loop Applications
 
-This repository was used to produce Figure 1 in [Overcoming Adversarial Attacks for Human-in-the-Loop Applications](./ICML_AdvML_Workshop_2022_McCoppin) and originally was the reference implementation for [Explanations can be manipulated and geometry is to blame](https://github.com/pankessel/explanations_can_be_manipulated).
-This paper seeks to show how adversarial samples can be manipulated to show a valid explanation while still remaining adversarial. See the paper for more details.
+This repository was used to produce Figure 1 in [Overcoming Adversarial Attacks for Human-in-the-Loop Applications](./ICML_AdvML_Workshop_2022_McCoppin.pdf) and originally was the reference implementation for [Explanations can be manipulated and geometry is to blame](https://github.com/pankessel/explanations_can_be_manipulated).
+The Overcoming paper seeks to show how adversarial samples can be manipulated to show a valid explanation while still remaining adversarial. See the paper for more details.
 
 ### Install
 
