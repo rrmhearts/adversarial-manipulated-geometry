@@ -2,7 +2,7 @@
 
 Papers covered in this repository include,
 
-1. [Overcoming Adversarial Attacks for HITL Applications](#overcoming-adversarial-attacks-for-human-in-the-loop-applications) ([pdf](./ICML_AdvML_Workshop_2022_McCoppin.pdf))
+1. [Overcoming Adversarial Attacks for HITL Applications](#overcoming-adversarial-attacks-for-human-in-the-loop-applications) ([pdf](./ICML_AdvML_Workshop_2022_McCoppin.pdf), [arxiv](https://arxiv.org/abs/2306.05952)) 
 2. [Explanations can be manipulated and Geometry is to blame](#explanations-can-be-manipulated-and-geometry-is-to-blame)
 
 ## Overcoming Adversarial Attacks for Human-in-the-Loop Applications
